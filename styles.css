@@ -51,7 +51,7 @@ body {
   margin: 5px 0;
 }
 
-.book .price-block {
+.book div {
   background-color: #2ecc71;
   color: #ffffff;
   font-weight: bold;
